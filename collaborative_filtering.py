@@ -209,10 +209,6 @@ print (type(test))
 print (type(bintest))
 print (np.multiply(test2,bintest))
 print (sum(np.array([[7,7,7],[7,7,7],[7,7,7]])))
-# AUTOLAB_IGNORE_STOP
-
-
-# In[ ]:
 
 
 a = np.array([[1,0,3],[4,0.0,6],[7,0,0]])
