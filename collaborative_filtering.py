@@ -244,6 +244,6 @@ def recommend(X, U, V, movieNames):
     return recs.tolist()
 
 recommendations = recommend(X_tr, U, V, movieNames)
-# recommendations
+# 10 top recommendations
 print (recommendations[:10])
 
