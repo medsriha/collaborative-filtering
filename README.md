@@ -1,6 +1,6 @@
 
 ## MovieLens rating dataset
-To start off, let's get the MovieLens dataset. This dataset is actually quite large (24+ million ratings), but we will instead use their smaller subset of 100k ratings. You will have to go fetch this from their website. 
+We use the MovieLens dataset for this problem. This dataset is actually quite large (24+ million ratings), but we will instead use their smaller subset of 100k ratings. You will have to go fetch this from their website. 
 
 * You can download the archive containing their latest dataset release from http://files.grouplens.org/datasets/movielens/ml-latest-small.zip (last updated October 2016). 
 * For more details (contents and structure of archive), you can read the README at http://files.grouplens.org/datasets/movielens/ml-latest-README.html
